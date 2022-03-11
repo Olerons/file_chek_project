@@ -1,0 +1,4 @@
+pyqt5
+openpyxl
+pywin32
+sqlite3
