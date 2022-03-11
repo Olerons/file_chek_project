@@ -1,1 +1,0 @@
-# file_chek_project
